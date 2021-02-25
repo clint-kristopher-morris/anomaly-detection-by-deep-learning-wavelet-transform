@@ -13,6 +13,6 @@ This project featured extensive data collection, including web scraping more tha
 
 After data collection VDS-CCS stations were geospatially matched with a k-nearest approach. Additionally, a weighted meshgrid of nearest weather stations was constructed for bilinear weather interpolation. Below shows a map of VDS (blue) and CCS (red) mapped. 
 
-![](https://i.ibb.co/LdVsYHX/VDS-CCSs.png)
+![](https://i.ibb.co/NsDXrGp/VDS-CCS2s.png)
 
-https://i.ibb.co/JnDVyDK/waveletS.png
+![](https://i.ibb.co/JnDVyDK/waveletS.png)
