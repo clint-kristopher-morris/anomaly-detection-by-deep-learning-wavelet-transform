@@ -11,6 +11,8 @@ These two systems feature diverse approaches to collecting traveler data. VDS us
 # Methods:
 This project featured extensive data collection, including web scraping more than 200 GB of data from a culmination of VDS, CCS and weather data. See my [previous repo]( https://github.com/clint-kristopher-morris/synthetic-parallel-selenium/edit/main/README.md) for information on techniques I developed to ameliorate web-scraping speed. 
 
-*	Scarpy 
-*	Mechanize
-*	BS4
+After data collection VDS-CCS stations were geospatially matched with a k-nearest approach. Additionally, a weighted meshgrid of nearest weather stations was constructed for bilinear weather interpolation. Below shows a map of VDS (blue) and CCS (red) mapped. 
+
+![](https://i.ibb.co/LdVsYHX/VDS-CCSs.png)
+
+https://i.ibb.co/JnDVyDK/waveletS.png
