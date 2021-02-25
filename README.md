@@ -29,3 +29,11 @@ There is an obvious error in the VDS data, this error was due to inclement weath
 
 
 ![](https://i.ibb.co/JnDVyDK/waveletS.png)
+
+# Results:
+This project is currently underway...
+
+# Tools:
+* [Dask](https://docs.dask.org/en/latest/install.html)
+* [Google Cloud Platform](https://cloud.google.com/) or alternatively you can use [Coiled](https://cloud.coiled.io/)
+* Python 3.6
